@@ -2,7 +2,7 @@
 
 This project features a **thunderstorm animation** created using HTML and CSS. It depicts a cloudy sky with animated rain and thunder effects, providing a visually engaging weather simulation.
 
-Here you can see the Thuder-Storm - https://thunder-storm-by-anubhaba.netlify.app/
+Here you can see the Thuder-Storm - <a href="https://thunder-storm-by-anubhaba.netlify.app/"> Thunder-Storm </a>
 
 ## Features
 
